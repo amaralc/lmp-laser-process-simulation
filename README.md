@@ -3,9 +3,8 @@
 ## Estrutura de branches
 
   * master/
-  * dev/    
-    * optical-to-heat/dev
-    * heat-to-temperature/dev
-    * temperature-to-microstructure/dev
-    * microstructure-to-resistence/dev
-  * gume/dev
+    * dev/    
+      * laser-and-heat/dev
+      * heat-and-temperature/dev
+      * temperature-and-microstructure/dev
+      * microstructure-and-resistence/dev
